@@ -3,4 +3,4 @@ streaming-flags:
     enabled: true
     disabled: false
   defaultRule:
-    variation: enabled
+    variation: disabled
